@@ -1,0 +1,18 @@
+App
+    Header
+    Products
+        Product
+    Message
+    Cart
+        CartItem
+        CartResult
+    Footer
+
+Shift+Alt+Down and Shift+Alt+Up
+
+Container là thằng trung gian kết nối với redux và lấy dữ liệu về cho component.
+Presentational component thì chỉ hiển thị
+Còn phần kết nối với component thì giao cho Container component
+Việc độc dữ liệu thì giao cho Container
+
+
